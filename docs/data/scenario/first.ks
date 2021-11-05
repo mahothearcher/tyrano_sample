@@ -95,6 +95,7 @@ GAFAはおろかどこのIT企業にも受け入れてもらえず、泣く泣�
 マイクロソフトの本社がシアトルであることに気づく...[l][r]
 
 【 BAD END? 】[l][cm]
+[jump target=*start]
 
 *enterprise_meta
 
